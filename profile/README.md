@@ -9,4 +9,4 @@ This organisation builds features and experiences around the [tovisit.eu](https:
 6. **Events & Festival** - Covers travel-related events and festivals in the EU via _events.tovisit.eu_.
 7. **Travel Planning** - Provides resources such as visa information, packing lists, and travel insurance options via _plan.tovisit.eu_
 
-If you would like to join us and build an industry-leading platform, apply [here](https://forms.gle/UT93ydtULs3PBCav5).
+Apply [here](https://forms.gle/UT93ydtULs3PBCav5) if you would like to join us and build an industry-leading platform.
