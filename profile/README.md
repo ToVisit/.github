@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-This organisation builds features and experiences around the [tovisit.eu](https://tovisit.eu) website catering to travellers looking to visit anywhere in the European Union including the following services:
-1. **Bookings** - Offers booking services for hotels, flights, tours, and activities via _booking.tovisit.eu_
+We features and experiences around the [tovisit.eu](https://tovisit.eu) website catering to travellers looking to visit the European Union. We are currently building the following services:
+1. **Bookings** - Offers booking services for hotels, flights, tours, and activities via _booking.tovisit.eu_ 
 2. **Guides** - Offers detailed travel guides for different cities, regions, or countries via _guides.tovisit.eu_
 3. **Reviews** - Encourages user-generated content by allowing travellers to leave reviews and recommendations via _reviews.tovisit.eu_
 4. **Marketplace** - A marketplace for travel-related products such as travel gear, books, and accessories via _market.tovisit.eu_
