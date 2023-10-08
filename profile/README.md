@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We build features and experiences around the [tovisit.eu](https://tovisit.eu) website catering to travellers who have visited and are looking to visit Europe. We aim to make the following services available by Winter 2025:
+We build features and experiences around the [tovisit.eu](https://tovisit.eu) website catering to travellers who have visited and are looking to visit Europe 🇪🇺. We aim to make the following services available by Winter 2025:
 1. **Bookings** - Booking services for hotels, flights, tours, and activities via _booking.tovisit.eu_ 
 2. **Guides** - Detailed travel guides for different cities, regions, or countries via _guides.tovisit.eu_
 3. **Reviews** - Allow visitors to leave reviews and recommendations via _reviews.tovisit.eu_
